@@ -1,23 +1,21 @@
-# Welcome to Beautiful Jekyll!
-# This config file is meant for settings that affect your entire website. When you first
-# set up your website you should go through all these settings and edit them, but after
-# the initial set up you won't need to come back to this file often.
-
-# --- Required options --- #
+# --- Basic options --- #
 
 # Name of website
-title: Malven Mtombeni
+title: "My Website"
+
+# Short description of your site
+description: "Portfolio Website"
 
 # Your name to show in the footer
-author: Some Person
+author: "Malven Mtombeni"
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+ Links:
+    - Lambda School: "https://lambdaschool.com"
+    - Data Science Learning Kit: "https://learn.lambdaschool.com/"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -38,13 +36,13 @@ round-avatar: true
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+Social-Network-links:
+  email: "malmtombeni@gmail.com"
+  github: Malven2019
+  twitter: @Malv2012
+  Linkedin: Malven
+  
+#  facebook:
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
