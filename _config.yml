@@ -10,13 +10,12 @@ description: "Portfolio Website"
 author: "Malven Mtombeni"
 
 # --- List of links in the navigation bar --- #
-
 navbar-links:
-  About Me: "aboutme"
- Links:
+About Me: "aboutme"
+Links:
     - Lambda School: "https://lambdaschool.com"
     - Data Science Learning Kit: "https://learn.lambdaschool.com/"
-  Author's home: "https://deanattali.com"
+Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
