@@ -37,9 +37,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 Social-Network-links:
   email: "malmtombeni@gmail.com"
-  github: Malven2019
+  github: https://github.com/Malven2019
   twitter: @Malv2012
-  Linkedin: Malven
+  Linkedin: https://www.linkedin.com/in/malven-mtombeni/
   
 #  facebook:
 #  reddit: yourname
